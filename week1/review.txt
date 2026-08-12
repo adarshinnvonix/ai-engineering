@@ -1,0 +1,9 @@
+- Discussed the challenges that I've faced during the r&d.
+- All team members covered and discussed doubts over the following topics : 
+    - Difference between AI engineer - AI developer
+    - Models
+    - Tokenization
+    - Top P
+    - Temperature and its use cases
+    - Transformer and vector space
+    - Google translate and its history that helped in the "Attention Is All You Need" research paper for the transformer architecture
