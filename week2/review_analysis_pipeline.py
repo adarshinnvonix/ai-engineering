@@ -1,5 +1,5 @@
 """
-07_review_analysis_pipeline.py  (CAPSTONE)
+review_analysis_pipeline.py  (CAPSTONE)
 ---------------------------------------------
 LEARNING GOALS
   - Combine everything: PromptTemplate + Model + Pydantic schema + Output Parser

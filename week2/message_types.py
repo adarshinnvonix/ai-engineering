@@ -1,5 +1,5 @@
 """
-01_message_types.py
+message_types.py
 --------------------
 LEARNING GOALS
   - Understand LangChain's message abstraction: every chat model call is a LIST of

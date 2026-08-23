@@ -1,5 +1,5 @@
 """
-02_prompt_templates.py
+prompt_templates.py
 -----------------------
 LEARNING GOALS
   - ChatPromptTemplate turns a prompt into a REUSABLE, parameterized Runnable.

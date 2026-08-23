@@ -1,5 +1,5 @@
 """
-06_runnables_lcel.py
+runnables_lcel.py
 -----------------------
 LEARNING GOALS
   - The Runnable protocol is LangChain's universal interface (invoke/ainvoke/

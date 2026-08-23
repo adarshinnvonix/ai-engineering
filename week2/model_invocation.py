@@ -1,5 +1,5 @@
 """
-03_model_invocation.py
+model_invocation.py
 ------------------------
 LEARNING GOALS
   - The 4 core ways to call any Runnable (and therefore any chat model):
