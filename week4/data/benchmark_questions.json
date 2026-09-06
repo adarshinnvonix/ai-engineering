@@ -1,0 +1,12 @@
+[
+  {"question": "How many casual leaves do I get per year?", "expected_keyword": "casual leave"},
+  {"question": "What is the notice period for a manager resigning?", "expected_keyword": "notice period"},
+  {"question": "Can I work from home permanently?", "expected_keyword": "remote work"},
+  {"question": "What does the health insurance cover?", "expected_keyword": "health insurance"},
+  {"question": "How do I claim travel expenses for a client visit?", "expected_keyword": "reimbursement"},
+  {"question": "What happens if I share confidential company information?", "expected_keyword": "code of conduct"},
+  {"question": "How many weeks of maternity leave are provided?", "expected_keyword": "maternity leave"},
+  {"question": "What are the standard working hours?", "expected_keyword": "working hours"},
+  {"question": "Who do I contact to report workplace harassment?", "expected_keyword": "harassment"},
+  {"question": "How much does the company contribute to provident fund?", "expected_keyword": "provident fund"}
+]
