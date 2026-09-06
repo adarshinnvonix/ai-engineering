@@ -1,0 +1,272 @@
+[
+  {
+    "question": "How many casual leaves do I get per year?",
+    "retrieved_chunks": [
+      {
+        "score": 0.2921,
+        "chunk": "- **Casual Leave (CL):** Employees are entitled to 12 casual leaves per year, credited at\n  1 per month. Casual leave cannot be carried forward to the"
+      },
+      {
+        "score": 0.432,
+        "chunk": "year) after completing 6 months of service. Earned leave can be carried forward up to a\n  maximum of 30 days; anything beyond that is lapsed at year-e"
+      },
+      {
+        "score": 0.4858,
+        "chunk": "Leave requests must be submitted through the HR portal at least 2 working days in advance for\nplanned leave. Unplanned/emergency leave must be informe"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "What is the notice period for a manager resigning?",
+    "retrieved_chunks": [
+      {
+        "score": 0.3964,
+        "chunk": "## 7. Termination and Notice Period\n\nEither the employee or Innvonix may terminate employment by providing notice as per the\nemployee's contract:\n\n- *"
+      },
+      {
+        "score": 0.4968,
+        "chunk": "Innvonix may, at its discretion, offer payment in lieu of notice (either partially or fully) to\neither party. Full and final settlement, including pen"
+      },
+      {
+        "score": 0.5008,
+        "chunk": "Leave requests must be submitted through the HR portal at least 2 working days in advance for\nplanned leave. Unplanned/emergency leave must be informe"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "Can I work from home permanently?",
+    "retrieved_chunks": [
+      {
+        "score": 0.5066,
+        "chunk": "## 3. Remote Work / Work From Home Policy\n\nInnvonix supports a hybrid work model. Employees may work from home up to 2 days per week\nwith prior manage"
+      },
+      {
+        "score": 0.5525,
+        "chunk": "Employees working remotely must:\n- Be reachable during core hours (11:00 AM to 4:00 PM).\n- Have a stable internet connection and attend all scheduled "
+      },
+      {
+        "score": 0.6039,
+        "chunk": "Attendance is tracked through the biometric system (for office staff) or the online attendance\nportal (for remote staff). Three or more instances of u"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "What does the health insurance cover?",
+    "retrieved_chunks": [
+      {
+        "score": 0.4454,
+        "chunk": "- **Health Insurance:** Group medical insurance covering the employee, spouse, and up to 2\n  children, with a sum insured of \u20b95,00,000 per family per "
+      },
+      {
+        "score": 0.6277,
+        "chunk": "12% of basic salary to PF.\n- **Wellness Allowance:** \u20b95,000 per year for gym memberships, mental health counseling\n  sessions, or wellness apps, reimb"
+      },
+      {
+        "score": 0.6347,
+        "chunk": "## 6. Employee Benefits\n\nInnvonix provides the following benefits to all full-time employees:"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "How do I claim travel expenses for a client visit?",
+    "retrieved_chunks": [
+      {
+        "score": 0.3749,
+        "chunk": "- All claims must be submitted within 30 days of the expense being incurred, along with valid\n  receipts/invoices.\n- Local travel (cab/auto for client"
+      },
+      {
+        "score": 0.5054,
+        "chunk": "Minor violations (e.g. dress code non-compliance, repeated tardiness) will typically result in\na verbal warning followed by a written warning before e"
+      },
+      {
+        "score": 0.6054,
+        "chunk": "under \u20b9500 which may be self-certified.\n- Reimbursements are processed within 15 working days of approval, along with the monthly\n  payroll cycle."
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "What happens if I share confidential company information?",
+    "retrieved_chunks": [
+      {
+        "score": 0.4346,
+        "chunk": "- Harassment or discrimination of any kind (see Anti-Harassment Policy below).\n- Sharing confidential company or client information with unauthorized "
+      },
+      {
+        "score": 0.5179,
+        "chunk": "Employees who experience or witness harassment are encouraged to report it to the Internal\nComplaints Committee (ICC) via email at icc@innvonix.exampl"
+      },
+      {
+        "score": 0.582,
+        "chunk": "Employees working remotely must:\n- Be reachable during core hours (11:00 AM to 4:00 PM).\n- Have a stable internet connection and attend all scheduled "
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "How many weeks of maternity leave are provided?",
+    "retrieved_chunks": [
+      {
+        "score": 0.3263,
+        "chunk": "year) after completing 6 months of service. Earned leave can be carried forward up to a\n  maximum of 30 days; anything beyond that is lapsed at year-e"
+      },
+      {
+        "score": 0.4342,
+        "chunk": "to be availed within 3 months of the child's birth.\n- **Bereavement Leave:** 5 days of paid leave in the event of the death of an immediate family\n  m"
+      },
+      {
+        "score": 0.4691,
+        "chunk": "- **Casual Leave (CL):** Employees are entitled to 12 casual leaves per year, credited at\n  1 per month. Casual leave cannot be carried forward to the"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "What are the standard working hours?",
+    "retrieved_chunks": [
+      {
+        "score": 0.4217,
+        "chunk": "## 2. Working Hours and Attendance\n\nStandard working hours at Innvonix are 9:30 AM to 6:30 PM, Monday through Friday, with a\n1-hour lunch break. Core "
+      },
+      {
+        "score": 0.5278,
+        "chunk": "Leave requests must be submitted through the HR portal at least 2 working days in advance for\nplanned leave. Unplanned/emergency leave must be informe"
+      },
+      {
+        "score": 0.5437,
+        "chunk": "Employees working remotely must:\n- Be reachable during core hours (11:00 AM to 4:00 PM).\n- Have a stable internet connection and attend all scheduled "
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "Who do I contact to report workplace harassment?",
+    "retrieved_chunks": [
+      {
+        "score": 0.493,
+        "chunk": "Employees who experience or witness harassment are encouraged to report it to the Internal\nComplaints Committee (ICC) via email at icc@innvonix.exampl"
+      },
+      {
+        "score": 0.5118,
+        "chunk": "## 8. Anti-Harassment Policy\n\nInnvonix maintains a zero-tolerance policy toward workplace harassment, including sexual\nharassment, bullying, and discr"
+      },
+      {
+        "score": 0.5555,
+        "chunk": "- Harassment or discrimination of any kind (see Anti-Harassment Policy below).\n- Sharing confidential company or client information with unauthorized "
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  },
+  {
+    "question": "How much does the company contribute to provident fund?",
+    "retrieved_chunks": [
+      {
+        "score": 0.4974,
+        "chunk": "- **Health Insurance:** Group medical insurance covering the employee, spouse, and up to 2\n  children, with a sum insured of \u20b95,00,000 per family per "
+      },
+      {
+        "score": 0.514,
+        "chunk": "12% of basic salary to PF.\n- **Wellness Allowance:** \u20b95,000 per year for gym memberships, mental health counseling\n  sessions, or wellness apps, reimb"
+      },
+      {
+        "score": 0.6058,
+        "chunk": "year) after completing 6 months of service. Earned leave can be carried forward up to a\n  maximum of 30 days; anything beyond that is lapsed at year-e"
+      }
+    ],
+    "cloud": {
+      "answer": null,
+      "time_sec": null,
+      "error": "Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}"
+    },
+    "local": {
+      "answer": null,
+      "time_sec": null,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  }
+]
