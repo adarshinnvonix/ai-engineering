@@ -1,0 +1,5 @@
+fastmcp
+langchain>=0.3.0
+langchain-mcp-adapters
+langchain-groq
+python-dotenv

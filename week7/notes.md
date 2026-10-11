@@ -12,7 +12,7 @@ pip install -r week7/modules.txt
 ## Run
 
 ```bash
-python research_assistant.py
+python week7/research_assistant.py
 ```
 
 ## How it's organized

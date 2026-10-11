@@ -12,7 +12,7 @@ pip install -r week8/modules.txt
 ## Run
 
 ```bash
-python workflow.py
+python week8/workflow.py
 ```
 
 It will draft an email, then stop and ask: `Approve sending this email? (yes/no):`
